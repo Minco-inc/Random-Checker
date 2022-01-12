@@ -1,0 +1,22 @@
+{
+  "name": "random-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "demo": "node demo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Minco-inc/Random-String-Detector.git"
+  },
+  "author": "Minco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Minco-inc/Random-String-Detector/issues"
+  },
+  "homepage": "https://github.com/Minco-inc/Random-String-Detector#readme",
+  "dependencies": {
+    "randexp": "^0.5.3"
+  }
+}

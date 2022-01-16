@@ -15,3 +15,6 @@ rc.check('Hello').then(result => {
 ```bash
 npm run demo
 ```
+
+## Notice
+RandExp module is only for demo.js, so you can remove it.

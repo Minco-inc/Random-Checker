@@ -1,7 +1,7 @@
 const fs = require("fs");
 
 class PairListParser {
-    static parse(file = __dirname + '../../pairlist') {
+    static parse(file = __dirname + '/../../pairlist') {
         return new Promise(async (resolve, reject) => {
             fs.readFile(file, 'utf-8', (err, data) => {
                 if (err) return reject(err);

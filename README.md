@@ -4,12 +4,17 @@
 const RandomChecker = require('random-checker');
 let rc = new RandomChecker();
 rc.check('Hello').then(result => {
-    if (result > UNIT) {
+    if (result > INDEX) {
 
     } else {
 
     }
 });
+
+```
+## Getting INDEX
+```bash
+node average.js
 ```
 
 ```bash

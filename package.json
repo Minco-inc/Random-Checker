@@ -1,6 +1,6 @@
 {
   "name": "random-checker",
-  "version": "1.1.1",
+  "version": "1.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Minco-inc/Random-Checker/issues"
   },
-  "homepage": "https://github.com/Minco-inc/Random-String-Detector#readme"
+  "homepage": "https://github.com/Minco-inc/Random-String-Detector#readme",
+  "dependencies": {
+    "randexp": "^0.5.3"
+  }
 }
